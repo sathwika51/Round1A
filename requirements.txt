@@ -1,0 +1,5 @@
+PyMuPDF==1.26.3
+transformers==4.40.2
+torch==2.7.1
+sentencepiece==0.2.0
+tqdm==4.67.1

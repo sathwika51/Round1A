@@ -1,0 +1,3794 @@
+{
+  "headings": [
+    {
+      "file": "sample.pdf",
+      "text": "Welcome to the   “Connecting the Dots” Challenge",
+      "page": 2,
+      "level": "H2",
+      "translations": {
+        "Hindi": "Connecting the Dots Challenge में आपका स्वागत है",
+        "Japanese": "ポイントを繋ぐ挑戦に歓迎"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पढ़ने पर पुनर्विचार करें",
+        "Japanese": "読書 を 再 考え て,知識 を 再 見 て ください"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "What if every time you opened a PDF, it didn’t just  sit there —it  spoke to you ,",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "क्या होगा अगर आप हर बार एक पीडीएफ खोलने, यह सिर्फ वहाँ बैठ नहीं है, यह आप से बात की है,",
+        "Japanese": "PDFを開くたびに 座って話さないと"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "connected ideas , and  narrated meaning  across your entire library?",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अपने पूरे पुस्तकालय में जुड़े विचारों, और कथाओं का अर्थ?",
+        "Japanese": "図書館全体で 意味を伝えました"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "That’s the future we’re building — and we want  you  to help shape it.",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "यह भविष्य है जिसे हम बना रहे हैं और हम चाहते हैं कि आप इसे आकार देने में मदद करें।",
+        "Japanese": "これが私たちが構築する未来です そして,あなたがそれを形作るのを手伝ってほしいのです"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "In the  Connecting the Dots Challenge , your mission is to reimagine the humble",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "कनेक्टिंग द डॉट्स चैलेंज में, आपका मिशन विनम्र लोगों को फिर से कल्पना करना है",
+        "Japanese": "ポイントを繋ぐ挑戦では 謙虚な人々を再現する任務です"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "PDF as an intelligent, interactive experience—one that  understands structure ,",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पीडीएफ एक बुद्धिमान, इंटरैक्टिव अनुभव के रूप में है जो संरचना को समझता है,",
+        "Japanese": "構造を理解する インタラクティブな経験として PDF を"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "surfaces insights , and responds  to you  like a trusted research companion.",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अंतर्दृष्टि को सतह पर लाता है, और एक विश्वसनीय अनुसंधान साथी की तरह आप पर प्रतिक्रिया करता है.",
+        "Japanese": "信頼される研究パートナーとして 答えます"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "The Journey Ahead",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आगे की यात्रा",
+        "Japanese": "前 の 旅"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Round 1:",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• पहला दौर",
+        "Japanese": "• 第 1 回"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Kick things off by building the brains — extract structured outlines from",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मस्तिष्क के निर्माण से चीजों को शुरू करें  से संरचित रूपरेखा निकालें",
+        "Japanese": "脳の構築によって 物を動かす"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "raw PDFs with blazing speed and pinpoint accuracy. Then, power it up",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "जलती गति और सटीकता के साथ कच्चे पीडीएफ. फिर, इसे शक्ति",
+        "Japanese": "素早く 精度で 動力アップする"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "with on-device intelligence that understands sections and links related",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "डिवाइस पर बुद्धि के साथ जो संबंधित खंडों और लिंक को समझता है",
+        "Japanese": "関連セクションやリンクを理解するデバイス上の情報"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "ideas together.",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विचारों को एक साथ।",
+        "Japanese": "共同でアイデアを"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Round 2:",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• दूसरा दौर",
+        "Japanese": "• 第2回戦"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "It’s showtime! Build a beautiful, intuitive reading webapp using Adobe’s",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "यह शो का समय है! Adobe के उपयोग से एक सुंदर, सहज ज्ञान युक्त पढ़ने वेब ऐप बनाएं",
+        "Japanese": "Adobe を使って 美しい 直感的な 読書 ウェブ アプリ を 構築 する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "PDF Embed API. You will be using your Round 1 work to design a",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पीडीएफ एम्बेड एपीआई. आप अपने राउंड 1 काम का उपयोग एक डिजाइन करने के लिए कर रहे हैं",
+        "Japanese": "プロジェクトを設計するために,あなたの1回目の作業を使用します"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "futuristic webapp.",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "भविष्यवादी वेब ऐप।",
+        "Japanese": "未来的なウェブアプリです"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Why This Matters",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "यह क्यों मायने रखता है",
+        "Japanese": "なぜ 重要 な の です か"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "In a world flooded with documents, what wins is not more content — it’s",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेजों से भरा एक दुनिया में, जो जीतता है वह अधिक सामग्री नहीं है",
+        "Japanese": "文書が溢れている世界では 勝者は 満足度が高いわけではない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "context . You’re not just building tools — you’re building the future of how we",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आप सिर्फ उपकरण नहीं बना रहे हैं आप भविष्य का निर्माण कर रहे हैं कि हम कैसे",
+        "Japanese": "未来を 構築しているのです"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "read, learn, and connect . No matter your background — ML hacker, UI builder,",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पढ़ना, सीखना, और कनेक्ट करना. कोई फर्क नहीं पड़ता कि आप के पृष्ठभूमि  ML हैकर, UI बिल्डर,",
+        "Japanese": "背景に関係なく ML ハッカー UI ビルダー"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "or insight whisperer — this is your stage.",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "या अंतर्दृष्टि चुप्पी बोलने वाला  यह आपका मंच है।",
+        "Japanese": "洞察力・ささやき者 ステージは君の舞台だ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Are you in?",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "तुम भी आ गए हो?",
+        "Japanese": "乗ってるの?"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "It’s time to read between the lines. Connect the dots. And build a PDF",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "यह लाइनों के बीच पढ़ने का समय है. बिंदुओं को जोड़ें. और एक पीडीएफ बनाएँ",
+        "Japanese": "線間を読み 点を結びつけ PDFを作成する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "experience that feels like  magic . Let’s go.",
+      "page": 2,
+      "level": "H3",
+      "translations": {
+        "Hindi": "ऐसा अनुभव जो जादू की तरह लगता है. चलो चलते हैं.",
+        "Japanese": "魔法のような体験を 体験するんだ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Round 1A: Understand Your Document",
+      "page": 3,
+      "level": "H2",
+      "translations": {
+        "Hindi": "राउंड 1ए: अपने दस्तावेज़ को समझें",
+        "Japanese": "第1A回:文書を理解する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Challenge Theme: Connecting the Dots Through Docs",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "चुनौती विषय: डॉक के माध्यम से डॉट्स को जोड़ना",
+        "Japanese": "課題 テーマ: ドックス を 通して 点 を 繋ぐ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Your Mission",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपका मिशन",
+        "Japanese": "あなた の 任務"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "You're handed a PDF — but instead of simply reading it, you're tasked with",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपको एक पीडीएफ  दिया जाता है लेकिन बस इसे पढ़ने के बजाय, आपको यह कार्य सौंपा जाता है",
+        "Japanese": "読み取ることではなく, 読み取ること"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "making sense of it like a machine would. Your job is to extract a structured",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपका काम एक संरचित",
+        "Japanese": "機械のように理解できるのです 構造的な"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "outline of the document — essentially the  Title , and headings like  H1 ,  H2 , and",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेज़ की रूपरेखा  अनिवार्य रूप से शीर्षक, और शीर्षक जैसे H1, H2, और",
+        "Japanese": "文書の概要 本質的にタイトル, H1, H2,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "H3  — in a clean, hierarchical format.",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "H3  एक स्वच्छ, पदानुक्रमिक प्रारूप में।",
+        "Japanese": "H3  は,清潔で階層的な形式で"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "This outline will be the  foundation  for the rest of your hackathon journey.",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "यह रेखाचित्र आपके हैकाथन यात्रा के बाकी हिस्सों की नींव होगा।",
+        "Japanese": "この概要は ハッカトン旅の残りへの基盤となるでしょう"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Why This Matters",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "यह क्यों मायने रखता है",
+        "Japanese": "なぜ 重要 な の です か"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "PDFs are everywhere — but machines don’t naturally understand their",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पीडीएफ हर जगह हैं  लेकिन मशीनें स्वाभाविक रूप से उनकी समझ नहीं पाती हैं ",
+        "Japanese": "コンピュータは自然に コンピュータを理解できない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "structure. By building an outline extractor, you’re enabling smarter document",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "संरचना. एक रूपरेखा निकालनेवाला बनाकर, आप एक स्मार्ट दस्तावेज़ सक्षम कर रहे हैं",
+        "Japanese": "概要抽出器を構築することで,よりスマートな文書を有効にします"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "experiences, like semantic search, recommendation systems, and insight",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अनुभव, जैसे अर्थपूर्ण खोज, सिफारिश प्रणाली और अंतर्दृष्टि",
+        "Japanese": "経験やセマンティック検索,推奨システム,洞察など"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "generation.",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पीढ़ी।",
+        "Japanese": "世代"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "What You Need to Build",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपको क्या बनाने की ज़रूरत है",
+        "Japanese": "築く 必要 が ある"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "You must build a solution that:",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपको एक समाधान बनाना होगा जोः",
+        "Japanese": "解決策を 構築しなければなりません"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Accepts a  PDF file  (up to 50 pages)",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• पीडीएफ फ़ाइल (अप 50 पृष्ठों तक) स्वीकार करता है",
+        "Japanese": "• PDFファイル (50ページまで) を 受け入れます"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Extracts:",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• निकासीः",
+        "Japanese": "• 抽出:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "o   Title",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "o शीर्षक",
+        "Japanese": "o タイトル"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "o   Headings:  H1, H2, H3 (with level and page number)",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "o शीर्षक: H1, H2, H3 (स्तर और पृष्ठ संख्या के साथ)",
+        "Japanese": "o タイトル:H1,H2,H3 (レベルとページ番号を表示)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Outputs a valid JSON file in the format below:",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• नीचे दिए गए प्रारूप में एक मान्य JSON फ़ाइल आउटपुट करता हैः",
+        "Japanese": "• 下の形式で有効な JSON ファイルを出力します:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "{",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "{ { { { { {",
+        "Japanese": "やってみよう"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "\"title\": \"Understanding AI\",",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "\"शीर्षक\": \"एआई को समझना\",",
+        "Japanese": "\"タイトル\" \"AIを理解する\""
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "\"outline\": [",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "\"संरेखण\": [",
+        "Japanese": "\"概要\" ["
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "{ \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "{ \"स्तर\": \"H1\", \"पाठ\": \"प्रस्ताव\", \"पृष्ठ\": 1 },",
+        "Japanese": "{ \"レベル\": \"H1\", \"テキスト\": \"紹介\", \"ページ\": 1 },"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "{ \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "{ \"स्तर\": \"H2\", \"पाठ\": \"एआई क्या है?\", \"पृष्ठ\": 2 },",
+        "Japanese": "\"AIとは何か?\" \"ページ\""
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "{ \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "{ \"स्तर\": \"H3\", \"पाठ\": \"इंटरनेट के इतिहास\", \"पृष्ठ\": 3 }",
+        "Japanese": "コンピュータの技術が 機能する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "]",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "]",
+        "Japanese": "]"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "}",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "}",
+        "Japanese": "やってみよう"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "You Will Be Provided",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपको प्रदान किया जाएगा",
+        "Japanese": "あなた は 備え られ ます"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "1.   A  sample input PDF  (e.g., sample.pdf)",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "1. एक नमूना इनपुट पीडीएफ (जैसे, नमूना.pdf)",
+        "Japanese": "1. 輸入サンプル PDF (例:サンプル.pdf)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "2.   A  sample ground truth output  (sample.json) for format clarity",
+      "page": 3,
+      "level": "H3",
+      "translations": {
+        "Hindi": "2. प्रारूप स्पष्टता के लिए एक नमूना ग्राउंड सत्य आउटपुट (sample.json)",
+        "Japanese": "2. 格式の明確性を示すサンプル地面真実輸出 (sample.json)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "3.   Sample Dockerfile",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "3. डॉकरफाइल का नमूना",
+        "Japanese": "3. サンプルドッカーファイル"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "4.   Sample Solution",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "4. नमूना समाधान",
+        "Japanese": "4. サンプル溶液"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Docker Requirements",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "डॉकर आवश्यकताएँ",
+        "Japanese": " dock の 要求"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Please ensure your Dockerfile is compatible with AMD64",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• कृपया सुनिश्चित करें कि आपका Dockerfile AMD64 के साथ संगत है",
+        "Japanese": "• Dockerファイルが AMD64 に対応していることを確認してください"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "architecture. Since we will build and run the image on an AMD64",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "वास्तुकला. चूंकि हम एक AMD64 पर छवि का निर्माण और चलाने के लिए",
+        "Japanese": "AMD64で画像を構築し実行するので"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "machine, your base image and any dependencies should support",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मशीन, अपनी आधार छवि और किसी भी निर्भरता समर्थन करना चाहिए",
+        "Japanese": "機械,あなたのベースイメージ,およびすべての依存関係がサポートする必要があります"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "linux/amd64. Optionally, you can include the following in your",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "linux/amd64। वैकल्पिक रूप से, आप अपने",
+        "Japanese": "選択として,次のものをあなたの"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Dockerfile to explicitly specify the platform: FROM --",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्लेटफार्म को स्पष्ट रूप से निर्दिष्ट करने के लिए डॉकरफ़ाइलः FROM --",
+        "Japanese": "プラットフォームを明確に指定する Dockerファイル: FROM --"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "platform=linux/amd64 <base_image>",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "platform=linux/amd64 <base_image>",
+        "Japanese": "プラットフォーム=linux/amd64 <base_image>"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   CPU architecture:  amd64 (x86_64)",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• CPU वास्तुकलाः amd64 (x86_64)",
+        "Japanese": "• CPU 構造: amd64 (x86_64)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   No GPU dependencies",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• कोई जीपीयू निर्भरता नहीं",
+        "Japanese": "• GPU依存関係がない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Model size (if used) ≤ 200MB",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• मॉडल आकार (यदि प्रयोग किया गया हो) ≤ 200MB",
+        "Japanese": "• モデルサイズ (使用された場合) ≤ 200MB"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Should work offline — no network/internet calls",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• ऑफ़लाइन काम करना चाहिए  कोई नेटवर्क/इंटरनेट कॉल नहीं",
+        "Japanese": "• オフラインで動作すべきか ネットワーク/インターネット通話がない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Expected Execution",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रत्याशित निष्पादन",
+        "Japanese": "予想 さ れ た 処刑"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "We will build the docker image using the following command:",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "हम निम्नलिखित कमांड का उपयोग करके डॉकर छवि का निर्माण करेंगेः",
+        "Japanese": "次のコマンドを使ってドッカー画像を作成します"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "```docker build --platform linux/amd64 -t",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "```docker निर्माण--प्लैटफ़ॉर्म लिनक्स/amd64 -t",
+        "Japanese": "```docker 構築 - プラットフォーム linux/amd64 -t"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "mysolutionname:somerandomidentifier```",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "mysolutionनाम:somerandomidentifier ``",
+        "Japanese": "mysolutionname:somerandomidentifier ```"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "After building the image, we will run the solution using the run command",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "छवि बनाने के बाद, हम रन कमांड का उपयोग करके समाधान चलाएंगे",
+        "Japanese": "実行命令を使って解決を実行します."
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "specified in the submitted instructions.",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रस्तुत निर्देशों में निर्दिष्ट।",
+        "Japanese": "提出された指示に記載されている."
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "```docker run --rm -v $(pwd) / इनपुट:/app/इनपुट -v $(pwd) / आउटपुट:/app/output --",
+        "Japanese": "```docker run --rm -v $(pwd) /入力:/app/入力 -v $(pwd) /出力:/app/output --"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "network none mysolutionname:somerandomidentifier```",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "नेटवर्क कोई समाधाननामःsomerandomidentifier``",
+        "Japanese": "ネットワーク無 mysolution名:somerandomidentifier ```"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Your container should:",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपके कंटेनर को:",
+        "Japanese": "容器は"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Automatically process all PDFs from /app/input directory,",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• /app/input निर्देशिका से सभी पीडीएफ को स्वचालित रूप से संसाधित करें,",
+        "Japanese": "• /app/input ディレクトリからすべてのPDFを自動的に処理する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "generating a corresponding filename.json in /app/output for each",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रत्येक के लिए /app/output में एक संबंधित फाइलनाम.json उत्पन्न करना",
+        "Japanese": "各のファイル名.json を /app/output で生成する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "filename.pdf",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "फ़ाइल नाम.pdf",
+        "Japanese": "ファイル名.pdf"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   output.json",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• output.json",
+        "Japanese": "• output.json"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Constraints",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रतिबंध",
+        "Japanese": "制限"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Constraint",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "बाध्यता",
+        "Japanese": "制限"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Requirement",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आवश्यकता",
+        "Japanese": "要求"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Execution",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "निष्पादन",
+        "Japanese": "執行"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "time",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "समय",
+        "Japanese": "時間"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "≤ 10 seconds for a 50-page",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "50 पृष्ठों के लिए ≤ 10 सेकंड",
+        "Japanese": "50ページの記事では ≤10秒"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "PDF",
+      "page": 4,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पीडीएफ",
+        "Japanese": "PDF"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Model size  ≤ 200MB (if used)",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मॉडल आकार ≤ 200MB (यदि प्रयोग किया गया हो)",
+        "Japanese": "モデルサイズ ≤ 200MB (使用する場合)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Network",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "नेटवर्क",
+        "Japanese": "ネットワーク"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "No internet access",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "इंटरनेट तक पहुँच नहीं",
+        "Japanese": "インターネットアクセスがない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "allowed",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अनुमति दी गई",
+        "Japanese": "許可"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Runtime",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "चलाने का समय",
+        "Japanese": "実行時間"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Must run on CPU (amd64),",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "सीपीयू (amd64) पर चलाना चाहिए,",
+        "Japanese": "CPU (amd64) で動作する必要があります"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "your solution should run on",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आपके समाधान पर चलना चाहिए",
+        "Japanese": "解決法が実行される"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "the system with 8 CPUs and",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "8 सीपीयू वाला सिस्टम और",
+        "Japanese": "8 CPUを持つシステムと"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "16 GB RAM configurations",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "16 जीबी रैम कॉन्फ़िगरेशन",
+        "Japanese": "16 GB RAMの設定"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Scoring Criteria",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "स्कोरिंग मानदंड",
+        "Japanese": "ポイント評価基準"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Criteria",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मानदंड",
+        "Japanese": "基準"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Max",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मैक्स",
+        "Japanese": "マックス"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Points",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अंक",
+        "Japanese": "ポイント"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Heading Detection Accuracy (Precision +",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "हेडिंग डिटेक्शन सटीकता (सटीकता +)",
+        "Japanese": "標識検出精度 (精度+)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Recall)",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "याद रखें)",
+        "Japanese": "思い出してください)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "25",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "25",
+        "Japanese": "25 について"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Performance (Time & Size Compliance)",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रदर्शन (समय और आकार अनुपालन)",
+        "Japanese": "性能 (時間とサイズの適合性)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "10",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "10",
+        "Japanese": "10"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Bonus: Multilingual Handling (e.g.,",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "बोनसः बहुभाषी प्रसंस्करण (जैसे,",
+        "Japanese": "ボーナス: 多言語対応 (例えば,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Japanese)",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "जापानी)",
+        "Japanese": "日本語)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "10",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "10",
+        "Japanese": "10"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Total",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "कुल",
+        "Japanese": "総額"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "45",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "45",
+        "Japanese": "45 年間"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Submission Checklist",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रस्तुतियों की जाँच सूची",
+        "Japanese": "提出チェックリスト"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "1.   Git Project with a working Dockerfile in the root director and",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "1. रूट डायरेक्टर में काम कर रहे डॉकरफ़ाइल के साथ Git प्रोजेक्ट और",
+        "Japanese": "1. rootディレクターで動作する Dockerファイルを持つ Git Project"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "2.   A working  Dockerfile",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "2. एक काम करने वाली डॉकरफ़ाइल",
+        "Japanese": "2. 動作するドッカーファイル"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "3.   All dependencies installed within the container",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "3. कंटेनर के अंदर स्थापित सभी निर्भरताएं",
+        "Japanese": "3. コンテナ内に設置されたすべての依存装置"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "4.   A README.md that explains:",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "4. एक README.md जो स्पष्ट करता हैः",
+        "Japanese": "4. 解説する README.md"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "o   Your approach",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "o आपकी दृष्टिकोण",
+        "Japanese": "o あなたのアプローチ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "o   Any models or libraries used",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "o इस्तेमाल किए गए किसी भी मॉडल या पुस्तकालय",
+        "Japanese": "o 使用したモデルやライブラリ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "o   How to build and run your solution (This is purely for",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "o अपने समाधान को कैसे बनाया जाए और चलाया जाए (यह केवल",
+        "Japanese": "o ソリューションを構築し実行する方法 (これは純粋に"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "documentation purpose, your solution should run using the",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेज के उद्देश्य से, आपके समाधान को",
+        "Japanese": "解決法は,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "“Expected Execution” section above.",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": " अपेक्षित निष्पादन उपरोक्त अनुभाग।",
+        "Japanese": "期待される実行 上記セクション."
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Pro Tips",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पेशेवर टिप्स",
+        "Japanese": "プロのアドバイス"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Don’t rely solely on font sizes for heading level determination —",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• शीर्षक स्तर निर्धारण के लिए केवल फ़ॉन्ट आकार पर निर्भर न करें",
+        "Japanese": "字幕レベル決定に フォントサイズのみを頼りにしないでください"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "headings in some PDFs break that assumption.",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "कुछ पीडीएफ में शीर्षक उस धारणा को तोड़ते हैं।",
+        "Japanese": "タイトルが違うのは"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Test your solution across both simple and complex PDFs.",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• अपने समाधान को सरल और जटिल पीडीएफ दोनों पर परीक्षण करें।",
+        "Japanese": "• シンプルで複雑な PDF ファイルで解決法を検証する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Make your code modular — you’ll reuse this structure in Round",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• अपने कोड को मॉड्यूलर बनाएं  आप इस संरचना का पुनः उपयोग Round में करेंगे",
+        "Japanese": "コードをモジュール化させ 丸でこの構造を再利用します"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "1B.",
+      "page": 5,
+      "level": "H3",
+      "translations": {
+        "Hindi": "1बी।",
+        "Japanese": "1B"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Important – Please keep your Git Repo private till the competition",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• महत्वपूर्ण  कृपया प्रतियोगिता तक अपने Git Repo को निजी रखें",
+        "Japanese": "重要 競争まで Git Repo を プライベート に 保存してください"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "deadline, you will be informed, when to make the repo public.",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "समय सीमा, आपको सूचित किया जाएगा, जब आप रेपो सार्वजनिक करने के लिए.",
+        "Japanese": "期限までに 公開する時を通知します"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "What Not to Do",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "क्या न करें",
+        "Japanese": "何 を 避ける べき です か"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Do not hardcode headings or file-specific logic",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• हार्डकोड शीर्षक या फ़ाइल-विशिष्ट तर्क न करें",
+        "Japanese": "• 硬いコードの頭文字やファイル特有の論理を"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Do not make API or web calls",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• एपीआई या वेब कॉल न करें",
+        "Japanese": "• APIやウェブ通話を行わないこと"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Do not exceed the runtime/model size constraints",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• रनटाइम/मॉडल आकार की सीमाओं से अधिक न करें",
+        "Japanese": "• 実行時間/モデルサイズ制限を超えません"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "[[Public Dataset Folder]]",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "सार्वजनिक डेटासेट फ़ोल्डर",
+        "Japanese": "公開データセットフォルダ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "(For Sample Input and Output Files, please refer to the appendix)",
+      "page": 6,
+      "level": "H3",
+      "translations": {
+        "Hindi": "(इंपुट और आउटपुट फ़ाइलों के लिए नमूना, कृपया अनुलग्नक देखें)",
+        "Japanese": "(サンプル入力および出力ファイルについては,附件を参照してください)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 7,
+      "level": "H2",
+      "translations": {
+        "Hindi": "राउंड 1बी: पर्सन-ड्राइव डॉक्यूमेंट इंटेलिजेंस",
+        "Japanese": "ルーン1B: 人物主導の文書情報"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Theme:   “Connect What Matters — For the User Who Matters”",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विषयः जो मायने रखता है उसे जोड़ें जो मायने रखता है उसे उपयोगकर्ता के लिए",
+        "Japanese": "テーマ: 重要事項を接続する 重要事項をユーザーに接続する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Challenge Brief (For Participants)",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "चुनौती का संक्षिप्त विवरण (भागियों के लिए)",
+        "Japanese": "挑戦 簡要 (参加者向け)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "You will build a system that acts as an intelligent document analyst, extracting",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आप एक प्रणाली का निर्माण करेंगे जो एक बुद्धिमान दस्तावेज विश्लेषक के रूप में कार्य करता है, निष्कर्षण",
+        "Japanese": "文書分析の技術として機能するシステムを作ります"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "and prioritizing the most relevant sections from a collection of documents based",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "और दस्तावेजों के संग्रह से सबसे प्रासंगिक खंडों को प्राथमिकता देने के आधार पर",
+        "Japanese": "文書集の最も関連的なセクションを優先し,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "on a specific persona and their job-to-be-done.",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "एक विशिष्ट व्यक्तित्व और उनके काम करने के लिए किया जाना है।",
+        "Japanese": "特定の性格や 完成する仕事について"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Input Specification",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "इनपुट विनिर्देश",
+        "Japanese": "入力仕様"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "2.   Document Collection : 3-10 related PDFs  Persona Definition : Role",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "2. दस्तावेज़ संग्रहः 3-10 संबंधित पीडीएफ",
+        "Japanese": "2.文書収集: 3-10 関連PDF パーソナ定義:役割"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "description with specific expertise and focus areas",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विशिष्ट विशेषज्ञता और फोकस क्षेत्रों के साथ विवरण",
+        "Japanese": "専門知識と重点分野に関する記述"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "3.   Job-to-be-Done : Concrete task the persona needs to accomplish",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "3. कार्य-करना-करना: व्यक्ति को पूरा करने के लिए आवश्यक विशिष्ट कार्य",
+        "Japanese": "3. 完成する仕事: パーソナ が 果たさなければならない 具体的な 任務"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Document collection, persona and job-to-be-done can be very diverse. So, the",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेज संग्रह, व्यक्तित्व और कार्य करने के लिए किया जा सकता है बहुत विविध है।",
+        "Japanese": "文書収集,人格や作業は非常に多様です"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "solution that teams need to build needs to be generic to generalize to this",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "समाधान है कि टीमों बनाने की जरूरत है इस पर सामान्य करने के लिए सामान्य होना चाहिए",
+        "Japanese": "チームに構築する必要がある解決策は,この"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "variety.",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विविधता।",
+        "Japanese": "種類"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Documents can be from any domain (Example: Research papers,",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• दस्तावेज किसी भी क्षेत्र से हो सकते हैं (उदाहरणः शोध पत्र,",
+        "Japanese": "• 文書は,任意の領域から (例:研究論文,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "school/college books, financial reports, news articles etc.)",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "स्कूल/कॉलेज की किताबें, वित्तीय रिपोर्ट, समाचार लेख आदि)",
+        "Japanese": "学校/大学の本,財務報告,ニュース記事など)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Persona can again be very diverse (Example: Researcher, Student,",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• व्यक्ति एक बार फिर बहुत विविध हो सकता है (उदाहरणः शोधकर्ता, छात्र,",
+        "Japanese": "• 性格はまた非常に多様性がある (例:研究者,学生,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Salesperson, Journalist, Entrepreneur etc)",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विक्रेता, पत्रकार, उद्यमी आदि)",
+        "Japanese": "営業マン,ジャーナリスト,起業家など)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Job-to-be-done: This will be related to the persona (Example:",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• कार्य-करनाः यह व्यक्ति से संबंधित होगा (उदाहरणः",
+        "Japanese": "作業: これは人格に関係する (例:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Provide a literature review for a given topic and available research",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "किसी विषय के लिए साहित्य की समीक्षा और उपलब्ध शोध प्रदान करें",
+        "Japanese": "特定のテーマに関する文献のレビューと利用可能な研究を提供する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "papers, What should I study for Organic Chemistry given the",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "कार्बनिक रसायन विज्ञान के लिए क्या अध्ययन करना चाहिए",
+        "Japanese": "生物化学について学ぶべきことは"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "chemistry documents, Summarize the financials of corporation xyz",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "रसायन शास्त्र दस्तावेज, निगम XYZ के वित्तीय विवरण का सारांश",
+        "Japanese": "化学文書 株式会社XYZの財務をまとめ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "given the detailed year end financial reports etc.)",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "वर्ष के अंत की विस्तृत वित्तीय रिपोर्ट आदि को देखते हुए)",
+        "Japanese": "詳細な年末財務報告など)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Sample Test Cases",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "नमूना परीक्षण मामले",
+        "Japanese": "試験事例サンプル"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Test Case 1: Academic Research",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "परीक्षण मामला 1: शैक्षणिक अनुसंधान",
+        "Japanese": "テストケース1: 学術研究"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Documents : 4 research papers on \"Graph Neural Networks for",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• दस्तावेजः \"ग्राफ न्यूरल नेटवर्क फॉर",
+        "Japanese": "• 文書: \"グラフ神経ネットワークの"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Drug Discovery\"",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "ड्रग डिस्कवरी\"",
+        "Japanese": "麻薬発見\""
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Persona : PhD Researcher in Computational Biology",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• व्यक्तिः कम्प्यूटेशनल बायोलॉजी में पीएचडी शोधकर्ता",
+        "Japanese": "• 人物: 計算生物学博士研究員"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Job : \"Prepare a comprehensive literature review focusing on",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• नौकरीः \"साहित्य की व्यापक समीक्षा तैयार करें",
+        "Japanese": "• 職務: \"文献 を 詳しく 検討 する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "methodologies, datasets, and performance benchmarks\"",
+      "page": 7,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पद्धति, डेटा सेट और प्रदर्शन बेंचमार्क\"",
+        "Japanese": "方法論,データセット,パフォーマンス基準\""
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Test Case 2: Business Analysis",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "परीक्षण मामला 2: व्यापार विश्लेषण",
+        "Japanese": "テストケース2 ビジネス分析"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Documents : 3 annual reports from competing tech companies",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• दस्तावेजः प्रतिस्पर्धी प्रौद्योगिकी कंपनियों की 3 वार्षिक रिपोर्ट",
+        "Japanese": "• 文書: 3 件の競合する技術企業による年次報告"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "(2022-2024)",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "(२०२२-२०२४)",
+        "Japanese": "年間"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Persona : Investment Analyst",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• व्यक्तित्वः निवेश विश्लेषक",
+        "Japanese": "• 人格: 投資分析士"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Job : \"Analyze revenue trends, R&D investments, and market",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• नौकरीः \"राजस्व रुझानों, आरएंडडी निवेशों और बाजार का विश्लेषण करें",
+        "Japanese": "• 職位: \"収益傾向,R&D投資,市場分析"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "positioning strategies\"",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "स्थिति निर्धारण रणनीतियाँ\"",
+        "Japanese": "位置付け戦略\""
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Test Case 3: Educational Content",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "परीक्षण मामला 3: शैक्षिक सामग्री",
+        "Japanese": "テストケース3 教育内容"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Documents : 5 chapters from organic chemistry textbooks",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• दस्तावेजः कार्बनिक रसायन शास्त्र पाठ्यपुस्तकों से 5 अध्याय",
+        "Japanese": "• 文書:有機化学教科書から5章"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Persona : Undergraduate Chemistry Student",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• व्यक्तिः स्नातक रसायन विज्ञान छात्र",
+        "Japanese": "• 人格: 本科化学の学生"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Job : \"Identify key concepts and mechanisms for exam preparation",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• नौकरीः \"परीक्षा तैयारी के लिए प्रमुख अवधारणाओं और तंत्रों की पहचान करना",
+        "Japanese": "• 職務: \"試験準備の主要な概念とメカニズムを特定する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "on reaction kinetics\"",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "प्रतिक्रिया गति विज्ञान पर\"",
+        "Japanese": "反応運動学について\""
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Required Output",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आवश्यक आउटपुट",
+        "Japanese": "必要な出荷"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Output JSON format: Refer  challenge1b_output.json",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• आउटपुट JSON प्रारूपः challenge1b_output.json देखें",
+        "Japanese": "• 輸出 JSON 形式: challenge1b_output.json を参照してください"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "The output should contain:",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "आउटपुट में निम्नलिखित शामिल होना चाहिएः",
+        "Japanese": "輸出には:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "1.   Metadata:",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "1. मेटाडेटाः",
+        "Japanese": "1. メタデータ:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "a.   Input documents",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "ए. इनपुट दस्तावेज",
+        "Japanese": "a.入力文書"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "b.   Persona",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "व्यक्ति",
+        "Japanese": "b.パーソナ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "c.   Job to be done",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "ग. कार्य किया जाना",
+        "Japanese": "完成する仕事"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "d.   Processing timestamp",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "डी. प्रसंस्करण समयशीर्षक",
+        "Japanese": "d.処理時間スタンプ"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "2.   Extracted Section:",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "2. निकाले गए अनुभाग:",
+        "Japanese": "2. 抽出されたセクション:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "a.   Document",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेज",
+        "Japanese": "a 文書"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "b.   Page number",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "पृष्ठ संख्या",
+        "Japanese": "b.ページ番号"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "c.   Section title",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अनुभाग का शीर्षक",
+        "Japanese": "c.セクションのタイトル"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "d.   Importance_rank",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "d. महत्व_रैंक",
+        "Japanese": "d.重要_ランク"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "3.   Sub-section Analysis:",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "3. उपधारा विश्लेषणः",
+        "Japanese": "3. 副セクション解析:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "a.   Document",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेज",
+        "Japanese": "a 文書"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "b.",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "बी.",
+        "Japanese": "b."
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "c.   Refined Text",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "ग. परिष्कृत पाठ",
+        "Japanese": "c. 精製されたテキスト"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "d.   Page Number  Constraints",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "d. पृष्ठ संख्या प्रतिबंध",
+        "Japanese": "d.ページ番号制限"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Must run  on CPU  only",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• केवल सीपीयू पर चलाना चाहिए",
+        "Japanese": "• CPU で しか 動かない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Model size  ≤ 1GB",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• मॉडल आकार ≤ 1GB",
+        "Japanese": "• モデルサイズ ≤ 1GB"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Processing time ≤ 60  seconds  for document collection (3-5",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• दस्तावेज संग्रह के लिए प्रसंस्करण समय ≤ 60 सेकंड (3-5 सेकंड)",
+        "Japanese": "• 文書収集の処理時間 ≤ 60秒 (3-5秒)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "documents)",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दस्तावेज)",
+        "Japanese": "文書)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   No internet access  allowed during execution",
+      "page": 8,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• निष्पादन के दौरान इंटरनेट तक पहुंच की अनुमति नहीं",
+        "Japanese": "• 執行中にインターネットにアクセスできない"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Deliverables",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "वितरण योग्य",
+        "Japanese": "納品品"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   approach_explanation.md (300-500 words explaining",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• approach_explanation.md (300-500 शब्द स्पष्टीकरण)",
+        "Japanese": "• approach_explanation.md (300-500文字の説明)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "methodology)",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विधि)",
+        "Japanese": "方法論)"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•   Dockerfile and execution instructions",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "• डॉकरफ़ाइल और निष्पादन निर्देश",
+        "Japanese": "• ドッカーファイルと実行指示"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Sample input/output for testing",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "परीक्षण के लिए नमूना इनपुट/आउटपुट",
+        "Japanese": "試験のためのサンプル入力/出力"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "•",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Scoring Criteria",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "स्कोरिंग मानदंड",
+        "Japanese": "ポイント評価基準"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Criteria",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मानदंड",
+        "Japanese": "基準"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Max",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "मैक्स",
+        "Japanese": "マックス"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Points",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अंक",
+        "Japanese": "ポイント"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Description",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "विवरण",
+        "Japanese": "記述"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Section Relevance",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "अनुभाग प्रासंगिकता",
+        "Japanese": "セクション関連性"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "60",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "60",
+        "Japanese": "60"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "How well selected sections match",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "चयनित खंडों की अनुकूलता",
+        "Japanese": "選出されたセクションがどの程度一致する"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "persona + job requirements with",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "व्यक्ति + नौकरी की आवश्यकताओं के साथ",
+        "Japanese": "人格 + 職務要求"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "proper stack ranking",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "उचित स्टैक रैंकिंग",
+        "Japanese": "適切なスタックランキング"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Sub-Section Relevance",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "उपधारा प्रासंगिकता",
+        "Japanese": "副セクションの関連性"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "40",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "40",
+        "Japanese": "40 年間"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Quality of granular subsection",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "दानेदार उपखंड की गुणवत्ता",
+        "Japanese": "粒子のサブセクションの質"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "extraction and ranking",
+      "page": 9,
+      "level": "H3",
+      "translations": {
+        "Hindi": "निकासी और रैंकिंग",
+        "Japanese": "採取と排行"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Appendix:",
+      "page": 10,
+      "level": "H2",
+      "translations": {
+        "Hindi": "अनुलग्नकः",
+        "Japanese": "附属書:"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "https://github.com/jhaaj08/Adobe-India-",
+      "page": 10,
+      "level": "H2",
+      "translations": {
+        "Hindi": "https://github.com/jhaaj08/Adobe-India-",
+        "Japanese": "メディアは,この問題について,"
+      }
+    },
+    {
+      "file": "sample.pdf",
+      "text": "Hackathon25.git",
+      "page": 10,
+      "level": "H2",
+      "translations": {
+        "Hindi": "हैकाथन25.git",
+        "Japanese": "ハッカソン25ギット"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Arrhythmia Disease Diagnosis Based",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "एरिथमी रोग निदान के आधार पर",
+        "Japanese": "律症 の 診断 に 基づく"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "on ECG Time–Frequency Domain",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "ईसीजी समयआवृत्ति क्षेत्र पर",
+        "Japanese": "ECG タイム周波数領域"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Fusion and Convolutional Neural",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "संलयन और संलयन तंत्रिका",
+        "Japanese": "融合とコンボリュショナル神経"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Network",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "नेटवर्क",
+        "Japanese": "ネットワーク"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "PRESENTED BY:",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "प्रस्तुतकर्ता:",
+        "Japanese": "紹介者:"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "S.SATWIKA 23RH1A05ML",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "S.SATWIKA 23RH1A05ML",
+        "Japanese": "S.SATWIKA 23RH1A05ML"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "S.VARSHITHA 23RH1A05NB",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "S.VARSHITHA 23RH1A05NB",
+        "Japanese": "S.VARSHITHA 23RH1A05NB"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "UNDER THE GUIDANCE OF:",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "इस दिशा में:",
+        "Japanese": "指導を受け"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "NIRANJAN SIR",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "नीरंजन सर",
+        "Japanese": "ナイランジャン・サー"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "REESHMA MAM",
+      "page": 1,
+      "level": "H1",
+      "translations": {
+        "Hindi": "रीश्मा मम्मी",
+        "Japanese": "リーシュマ・マム"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "ABSTRACT",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "संक्षेप",
+        "Japanese": "概要"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Early arrhythmia detection is critical. This project enhances cardiovascular",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• एरिथमी का प्रारंभिक पता लगाना महत्वपूर्ण है। यह परियोजना हृदय व रक्त वाहिका तंत्र को बेहतर बनाती है।",
+        "Japanese": "• 早期に心律不調症を検知することが重要です このプロジェクトは 心血管疾患を向上させる"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "diagnosis for timely treatment, reducing adverse outcomes globally.",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "समय पर उपचार के लिए निदान, वैश्विक स्तर पर प्रतिकूल परिणामों को कम करना।",
+        "Japanese": "治療を適時に行うため,世界的に有害な結果を減少させる."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  CNNs analyze ECG signals, enhancing diagnostic accuracy. Deep learning",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• सीएनएन ईसीजी संकेतों का विश्लेषण करते हैं, जिससे निदान सटीकता बढ़ जाती है।",
+        "Japanese": "• CNNはECG信号を分析し,診断の正確性を向上させる."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "improves efficiency, overcoming traditional ECG diagnostic limitations.",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "पारंपरिक ईसीजी निदान सीमाओं को दूर करके दक्षता में सुधार करता है।",
+        "Japanese": "効率を向上させ,伝統的なECG診断の制限を克服します."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Traditional ECG lacks time–frequency data utilization. This project integrates",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• पारंपरिक ईसीजी में समय के साथ आवृत्ति डेटा का उपयोग नहीं होता है।",
+        "Japanese": "• 伝統的な電磁気伝染図は時間周波数データ利用が欠けている."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "CNNs to develop a robust arrhythmia diagnostic system, enhancing speed and",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सीएनएन एक मजबूत एरिथमी निदान प्रणाली विकसित करने के लिए, गति और",
+        "Japanese": "速さと 精神疾患の診断を 強化する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "accuracy.",
+      "page": 2,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सटीकता।",
+        "Japanese": "精度"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "INTRODUCTION",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "परिचय",
+        "Japanese": "導入"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Irregular heart rhythms pose cardiovascular risks, including stroke and sudden",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• हृदय की अनियमित लय हृदय संबंधी जोखिम पैदा करती है, जिसमें स्ट्रोक और अचानक",
+        "Japanese": "• 心臓 の 異常 の リズム は 脳卒中 や 突然 の 心血管 リスク を 引き起こします"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "cardiac arrest, emphasizing the need for accurate diagnosis and timely intervention.",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हृदय गतिरोध, सटीक निदान और समय पर हस्तक्षेप की आवश्यकता पर जोर देते हुए।",
+        "Japanese": "適切な診断と間に合った介入の必要性を強調する."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  ECG records heart activity, crucial for detecting rhythm abnormalities and guiding",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• ईसीजी हृदय गतिविधि को रिकॉर्ड करता है, जो कि लय संबंधी असामान्यताओं का पता लगाने और मार्गदर्शन करने के लिए महत्वपूर्ण है",
+        "Japanese": "• EKGは心臓活動を記録し,リズム異常を検出し,指針を導くのに不可欠です"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "treatment decisions in arrhythmia diagnosis.",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "एरिथमी निदान में उपचार निर्णय।",
+        "Japanese": "律症診断における治療決定"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Traditional ECG methods struggle with dynamic arrhythmia patterns, leading to",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• पारंपरिक ईसीजी विधियों में गतिशील एरिथमी पैटर्न के साथ संघर्ष होता है, जिससे",
+        "Japanese": "• 伝統的なECG方法は動的な律パターンと闘い,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "diagnostic delays due to nuanced feature extraction difficulties.",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सूक्ष्म विशेषता निकासी कठिनाइयों के कारण निदान में देरी।",
+        "Japanese": "微妙な特徴の抽出困難による診断遅延."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Integrating time-frequency analysis enhances ECG interpretation by capturing",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• समय-आवृत्ति विश्लेषण को एकीकृत करने से ईसीजी की व्याख्या को कैप्चर करके बेहतर किया जाता है",
+        "Japanese": "• タイム・周波数分析を統合することで,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "transient frequency changes, offering richer arrhythmia characterization for",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "अस्थायी आवृत्ति परिवर्तन, जो समृद्ध एरिथमीय विशेषता प्रदान करता है",
+        "Japanese": "臨時周波数変化により,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "improved diagnosis.",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "बेहतर निदान।",
+        "Japanese": "診断が改善されました"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Our project integrates fusion techniques with CNNs for precise arrhythmia",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• हमारी परियोजना सटीक अरिथमी के लिए सीएनएन के साथ संलयन तकनीक को एकीकृत करती है",
+        "Japanese": "• プロジェクトでは 精密な律を保つために 融合技術とCNNを統合する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "diagnosis, promising improved healthcare outcomes.",
+      "page": 3,
+      "level": "H1",
+      "translations": {
+        "Hindi": "निदान, बेहतर स्वास्थ्य सेवा परिणामों का वादा करता है।",
+        "Japanese": "診断が成功し,医療の改善が期待されています."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "PROBLEM STATEMENT",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "समस्या कथन",
+        "Japanese": "問題報告"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Arrhythmia's global burden necessitates urgent attention for improved detection",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• एरिथमी का वैश्विक बोझ बेहतर पता लगाने के लिए तत्काल ध्यान देने की आवश्यकता है",
+        "Japanese": "• 律症 の 全球 的 な 負担 は,より 良く 検知 する ため に 急ぎ の 注意 を 必要 と する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "and treatment, echoing concerns seen in cerebrovascular disease, stressing the need",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "और उपचार, सेरेब्रोवास्कुलर रोग में देखी गई चिंताओं को echoing, आवश्यकता पर जोर",
+        "Japanese": "脳の血管疾患の懸念を反映し,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "for effective interventions.",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "प्रभावी हस्तक्षेप के लिए।",
+        "Japanese": "効果的な介入のための"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Early identification of arrhythmia symptoms is essential for effective",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• प्रभावी होने के लिए एरिथमी के लक्षणों की प्रारंभिक पहचान आवश्यक है",
+        "Japanese": "• 効果的になるためには, ариズム症状を早期に特定することが不可欠です"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "cardiovascular management, emphasizing the urgency in enhancing diagnostic",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हृदय व रक्त वाहिका प्रबंधन, डायग्नोस्टिक में सुधार की तत्कालता पर जोर देते हुए",
+        "Japanese": "診断を強化する緊急性を強調する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "capabilities to prevent severe outcomes.",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "गंभीर परिणामों को रोकने की क्षमता।",
+        "Japanese": "深刻な結果を防ぐ能力"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Traditional methods reliant on expert interpretation and intricate feature extraction",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• विशेषज्ञों की व्याख्या और जटिल विशेषता निकासी पर निर्भर पारंपरिक विधियां",
+        "Japanese": "• 専門家の解釈と複雑な特色抽出に依拠する伝統的な方法"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "suffer from delays and subjectivity, highlighting the need for advanced techniques",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "देरी और व्यक्तिपरकता से पीड़ित, उन्नत तकनीकों की आवश्यकता पर प्रकाश डालते हुए",
+        "Japanese": "遅延と主観性に苦しんでいる."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "to improve accuracy and efficiency.",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सटीकता और दक्षता में सुधार के लिए।",
+        "Japanese": "精度と効率を向上させる."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  While deep learning, particularly CNNs, shows promise for automated arrhythmia",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• जबकि गहन शिक्षा, विशेषकर सीएनएन, स्वचालित एरिथमी के लिए आशाजनक है",
+        "Japanese": "• 深い学習,特にCNNは自動化不規則性への 期待を示している"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "diagnosis, unresolved issues such as underutilization of time-frequency domain",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "निदान, समय-आवृत्ति डोमेन का कम उपयोग जैसे हल नहीं हुए मुद्दे",
+        "Japanese": "診断,時間周波数領域の過小利用などの未解決問題"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "information and limited generalization persist, demanding further refinement and",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सूचना और सीमित सामान्यीकरण जारी है, जिससे आगे की परिष्करण और",
+        "Japanese": "情報の普及が 限られているため,さらなる改良と"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "innovation.",
+      "page": 4,
+      "level": "H1",
+      "translations": {
+        "Hindi": "नवाचार।",
+        "Japanese": "革新"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "EXISTING SYSTEM",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "मौजूदा प्रणाली",
+        "Japanese": "既存のシステム"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "DISADVANTAGES",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "नुकसान",
+        "Japanese": "欠点"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Traditional methods of arrhythmia diagnosis depend heavily on human",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• एरिथमी का निदान करने की पारंपरिक विधियाँ मानव पर बहुत निर्भर करती हैं",
+        "Japanese": "• 律症の診断の伝統的な方法は,人間に大きく依存する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "interpretation, leading to variability and subjectivity in results.",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "व्याख्या, परिणामों में परिवर्तनशीलता और विषयवस्तुता का कारण बनती है।",
+        "Japanese": "解釈が結果の変動性と主観性につながります"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Analyzing ECG signals manually requires significant time and effort from skilled",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• ईसीजी संकेतों का मैन्युअल विश्लेषण करने के लिए कुशल विशेषज्ञों द्वारा महत्वपूर्ण समय और प्रयास की आवश्यकता होती है",
+        "Japanese": "• 手動でECG信号の分析には,熟練した専門家がかなりの時間と労力を必要とする"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "professionals.",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "पेशेवरों।",
+        "Japanese": "専門家のこと"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Existing computational methods struggle to generalize across diverse patient",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• विभिन्न रोगियों में विद्यमान गणनात्मक विधियों को सामान्य बनाने में कठिनाई होती है",
+        "Japanese": "• 既存の計算方法が 異なる患者様々に一般化するのに苦労する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "populations and ECG datasets.",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "आबादी और ईसीजी डेटा सेट।",
+        "Japanese": "人口とECGデータセット"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Complex deep learning models used in existing systems lack interpretability,",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• मौजूदा प्रणालियों में प्रयोग किए जाने वाले जटिल गहन शिक्षा मॉडल में व्याख्यात्मकता की कमी है,",
+        "Japanese": "•既存のシステムで使用されている複雑なディープラーニングモデルには解釈ができない"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "making it challenging for clinicians to understand and trust the results.",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "यह क्लिनिकर्स के लिए परिणामों को समझने और उन पर भरोसा करने के लिए चुनौतीपूर्ण है।",
+        "Japanese": "臨床医が 臨床結果を理解し 信頼することが困難です"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Traditional arrhythmia diagnosis relies on expert ECG interpretation, analyzing wave",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "पारंपरिक एरिथमी निदान विशेषज्ञ ईसीजी व्याख्या, तरंग विश्लेषण पर निर्भर करता है",
+        "Japanese": "伝統的な ариズム診断は 専門家による EKG解釈,波分析に頼っています"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "clusters for abnormalities. Recent research explores computational methods like CNNs",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हालिया शोध सीएनएन जैसे कम्प्यूटेशनल तरीकों की खोज करता है",
+        "Japanese": "最近の研究ではCNNのような計算方法を探索しています"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "and SVMs, offering faster and more accurate diagnosis compared to traditional",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "और एसवीएम, पारंपरिक की तुलना में तेजी से और अधिक सटीक निदान प्रदान करते हैं",
+        "Japanese": "伝統的な診断と比べて 迅速かつ正確な診断を提供している"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "approaches, which are labor-intensive and subjective.",
+      "page": 5,
+      "level": "H1",
+      "translations": {
+        "Hindi": "कार्य-केंद्रित और व्यक्तिपरक दृष्टिकोण।",
+        "Japanese": "労働密集的で主観的なアプローチです"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "PROPOSED SYSTEM",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "प्रस्तावित प्रणाली",
+        "Japanese": "提案されたシステム"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "ADVANTAGES",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "लाभ",
+        "Japanese": "利点"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Integration of CNN and LSTM models with time-frequency domain fusion",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• समय-आवृत्ति डोमेन संलयन के साथ सीएनएन और एलएसटीएम मॉडल का एकीकरण",
+        "Japanese": "• CNNとLSTMモデルをタイム周波数領域融合に統合する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "improves diagnostic precision by capturing both spatial and temporal features from",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "यह स्थानिक और समय संबंधी दोनों विशेषताओं को कैप्चर करके नैदानिक सटीकता में सुधार करता है।",
+        "Japanese": "空間と時間の両方の特徴を捕捉することで診断精度を向上させる"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "ECG signals.",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "ईसीजी संकेत.",
+        "Japanese": "EKG信号"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Leveraging complementary strengths of CNNs and LSTMs enhances the system's",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• सीएनएन और एलएसटीएम की पूरक शक्तियों का लाभ उठाने से सिस्टम की क्षमता में सुधार होता है।",
+        "Japanese": "• CNNとLSTMの補完的な強みを活用することで,システムの機能が向上します"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "resilience to noise and variability in ECG data.",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "शोर के प्रति लचीलापन और ईसीजी डेटा में परिवर्तनशीलता।",
+        "Japanese": "騒音に対する耐性とECGデータの変動性."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Time-frequency domain fusion allows for a more comprehensive examination of",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• समय-आवृत्ति डोमेन संलयन से समय-आवृत्ति डोमेन के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति के क्षेत्र में समय-आवृत्ति की तुलना में अधिक व्यापक रूप में अधिक व्यापक रूप में विस्तारित करने की",
+        "Japanese": "• 時間周波数領域融合により,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "ECG signals, enabling detection of subtle arrhythmia patterns.",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "ईसीजी संकेत, जो सूक्ष्म एरिथमी पैटर्न का पता लगाने में सक्षम बनाता है।",
+        "Japanese": "微妙な不規則性パターンを検出する EKG信号"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Training on diverse datasets like MIT-BIH and PTBDB promotes the",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• एमआईटी-बीआईएच और पीटीबीडीबी जैसे विभिन्न डेटा सेट पर प्रशिक्षण",
+        "Japanese": "• MIT-BIHやPTBDBなどの多様なデータセットに関する訓練は,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "generalizability of the system across different patient populations and ECG",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "विभिन्न रोगी आबादी और ईसीजी में प्रणाली की सामान्यीकरण",
+        "Japanese": "異なる患者集団とECGにおけるシステムの通用性"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "recording conditions.",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "रिकॉर्डिंग की शर्तें।",
+        "Japanese": "記録条件"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Our proposed system combines Convolutional Neural Networks (CNN) and Long Short-",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हमारे प्रस्तावित प्रणाली में संवर्धित तंत्रिका नेटवर्क (CNN) और लंबी लघु-",
+        "Japanese": "ニューラルネットワークと 長期間の短縮ネットワークを組み合わせたものです"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Term Memory (LSTM) models with time-frequency domain fusion. Trained on MIT-",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "समय-आवृत्ति डोमेन संलयन के साथ टर्म मेमोरी (LSTM) मॉडल।",
+        "Japanese": "タイム周波数領域融合を伴うterm memory (LSTM) モデル."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "BIH and PTBDB datasets, it enhances arrhythmia diagnosis by leveraging spatial and",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "यह स्थानिक और",
+        "Japanese": "空間的および"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "temporal features from ECG signals.",
+      "page": 6,
+      "level": "H1",
+      "translations": {
+        "Hindi": "ईसीजी संकेतों से समय संबंधी विशेषताएं।",
+        "Japanese": "ECG信号からの時間特征"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "EXTENSION",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "विस्तार",
+        "Japanese": "拡張"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "ADVANTAGES",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "लाभ",
+        "Japanese": "利点"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  CNN+LSTM, Voting Classifier, and Stacking Classifier outperform CNN and",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• CNN+LSTM, वोटिंग क्लासिफायर और स्टैकिंग क्लासिफायर CNN और",
+        "Japanese": "• CNN+LSTM,投票分類器,スタッキング分類器は CNNと"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "LSTM, improving precision, recall, F1 score, and accuracy.",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "LSTM, सटीकता में सुधार, याद करने, F1 स्कोर, और सटीकता।",
+        "Japanese": "LSTM,精度,追記,F1スコア,精度を向上させる."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Extension models improve ECG signal analysis, enhancing classification accuracy",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• विस्तार मॉडल ईसीजी संकेत विश्लेषण में सुधार करते हैं, वर्गीकरण की सटीकता में सुधार करते हैं",
+        "Japanese": "• 拡張モデルがECG信号分析を向上させ,分類の精度を向上させる"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "for various arrhythmia patterns like fusion beats.",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "विभिन्न एरिथमी पैटर्न के लिए जैसे संलयन धड़कन।",
+        "Japanese": "融合の拍子などの様々な Arrhythmiaパターンについて"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Combined models leverage ensemble techniques, enhancing overall performance by",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• संयुक्त मॉडल समूह तकनीक का लाभ उठाते हैं, जिससे समग्र प्रदर्शन में सुधार होता है",
+        "Japanese": "• 組み合わせたモデルは,集合技術を利用し,全体的なパフォーマンスを向上させる"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "capitalizing on individual model strengths.",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "व्यक्तिगत मॉडल की ताकतों का लाभ उठाना।",
+        "Japanese": "モデルの強みを活用する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Voting Classifier deployed in Flask framework enables accurate ECG signal",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• फ्लैस्क फ्रेमवर्क में तैनात मतदान वर्गीकरण सटीक ईसीजी संकेत सक्षम बनाता है",
+        "Japanese": "• Flask フレームワークで導入された投票分類器は,正確なECG信号を可能にします"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "classification, demonstrating practical utility and effectiveness.",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "वर्गीकरण, व्यावहारिक उपयोगिता और प्रभावशीलता का प्रदर्शन करता है।",
+        "Japanese": "適用可能な方法"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Our project extends CNN and LSTM models with a Voting Classifier and Stacking",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हमारी परियोजना एक मतदान वर्गीकरण और स्टैकिंग के साथ सीएनएन और एलएसटीएम मॉडल को बढ़ाती है",
+        "Japanese": "プロジェクトでは,CNNとLSTMモデルを 投票分類器とスタッキングで拡張します"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Classifier. We incorporate a CNN+LSTM model for enhanced arrhythmia diagnosis. A",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "वर्गीकरणकर्ता. हम एक CNN + एलएसटीएम मॉडल को शामिल किया है उन्नत एरिथमी निदान के लिए.",
+        "Japanese": "クラシファイヤーです 改善された ариトミーの診断のための CNN+LSTMモデルを組み込みました"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Flask framework with SQLite enables user signup/signin, enhancing practical utility.",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "SQLite के साथ फ्लैस्क फ्रेमवर्क उपयोगकर्ता साइनअप/सिनिन सक्षम बनाता है, व्यावहारिक उपयोगिता को बढ़ाता है।",
+        "Japanese": "SQLite の Flask フレームワークは,ユーザのサインアップ/サインインを可能にし,実用的なユーティリティを高めます."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "These extensions aim to improve performance and accuracy through ensemble learning",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "इन विस्तारों का उद्देश्य एक साथ सीखने के माध्यम से प्रदर्शन और सटीकता में सुधार करना है",
+        "Japanese": "これらの拡張は,集団学習を通じてパフォーマンスと精度を向上させることを目的としています"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "and user interaction.",
+      "page": 7,
+      "level": "H1",
+      "translations": {
+        "Hindi": "और उपयोगकर्ता के साथ बातचीत।",
+        "Japanese": "ユーザーとの交流"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "SOFTWARE / HARDWARE REQUIREMENTS",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सॉफ़्टवेयर / हार्डवेयर आवश्यकताएँ",
+        "Japanese": "ソフトウェア/ハードウェアの要求"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Software Requirements",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सॉफ्टवेयर आवश्यकताएँ",
+        "Japanese": "ソフトウェアの要件"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "1.  Software                          :      Anaconda",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "1. सॉफ्टवेयरः Anaconda",
+        "Japanese": "1.ソフトウェア: アナコンダ"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "2.  Primary Language           :      Python",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "2. प्राथमिक भाषाः पायथन",
+        "Japanese": "2. 基本言語: パイthon"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "3.  Frontend Framework       :      Flask",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "3. फ्रंटेंड फ्रेमवर्कः फ्लास्क",
+        "Japanese": "3. フロントエンドフレームワーク: Flask"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "4.  Back-end Framework      :      Jupyter Notebook",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "4. बैक-एंड फ्रेमवर्कः ज्युपिटर नोटबुक",
+        "Japanese": "4. バックエンドフレームワーク:Jupyterノートブック"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "5.  Database                          :      Sqlite3",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "5. डाटाबेसः Sqlite3",
+        "Japanese": "5. データベース: Sqlite3"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "6.  Front-End Technologies  :       HTML, CSS,",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "6. फ्रंट-एंड टेक्नोलॉजीजः एचटीएमएल, सीएसएस,",
+        "Japanese": "6. フロントエンド技術: HTML,CSS,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "JavaScript and",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "जावास्क्रिप्ट और",
+        "Japanese": "JavaScript と"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Bootstrap4",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "बूटस्ट्रैप4",
+        "Japanese": "起動4"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Hardware Requirements",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हार्डवेयर आवश्यकताएँ",
+        "Japanese": "ハードウェア要件"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "1. Operating System   :   Windows Only",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "1. ऑपरेटिंग सिस्टमः केवल विंडोज",
+        "Japanese": "1.オペレーティング システム: Windows のみ"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "2. Processor                :    i5 and above",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "2. प्रोसेसरः i5 और उससे ऊपर",
+        "Japanese": "2. プロセッサ: i5 以上"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "3. Ram                        :   8GB and above",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "3. रैमः 8GB और उससे अधिक",
+        "Japanese": "3 ラーメン: 8GB以上"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "4. Hard Disk              :   25 GB and above",
+      "page": 8,
+      "level": "H1",
+      "translations": {
+        "Hindi": "4. हार्ड डिस्कः 25 जीबी और उससे अधिक",
+        "Japanese": "4. ハードディスク: 25 GB 以上"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "SYSTEM ARCHITECTURE",
+      "page": 9,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सिस्टम आर्किटेक्चर",
+        "Japanese": "システムアーキテクチャ"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "CONCLUSION",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "निष्कर्ष",
+        "Japanese": "結論"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Developed a robust system to tackle the pressing need for accurate arrhythmia",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सटीक अरिथमी की तत्काल आवश्यकता से निपटने के लिए एक मजबूत प्रणाली विकसित की",
+        "Japanese": "精密な不律症の急需に対処するための強力なシステムを開発しました"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "diagnosis, leveraging advanced techniques in machine learning and signal",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "निदान, मशीन लर्निंग और सिग्नल में उन्नत तकनीकों का लाभ उठाना",
+        "Japanese": "診断,機械学習と信号における先進技術を利用する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "processing.",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "प्रसंस्करण",
+        "Japanese": "処理"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Utilized Convolutional Neural Networks (CNNs) and Long Short-Term Memory",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "उपयोग किए गए संभ्रांत तंत्रिका नेटवर्क (सीएनएन) और लंबी अल्पकालिक स्मृति",
+        "Japanese": "活用されたコンボリュショナル 神経ネットワーク (CNN) と 長期短期記憶"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "(LSTM) networks to effectively analyze electrocardiogram (ECG) data for",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "(LSTM) नेटवर्क के लिए प्रभावी ढंग से इलेक्ट्रोकार्डियोग्राम (ECG) डेटा का विश्लेषण करने के लिए",
+        "Japanese": "電気心電図 (ECG) のデータを効果的に分析するための (LSTM) ネットワーク"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "arrhythmia detection.",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "एरिथमी का पता लगाना।",
+        "Japanese": "律症の検出"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Expanded the project's capabilities by integrating ensemble methods such as",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "परियोजना की क्षमताओं का विस्तार एंसम्बल विधियों जैसे एकीकृत करके किया गया",
+        "Japanese": "プロジェクト能力を拡大し,"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "CNN+LSTM, Voting Classifier, and Stacking Classifier, enhancing",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "CNN+LSTM, मतदान वर्गीकरण और स्टैकिंग वर्गीकरण, जो कि सुधार",
+        "Japanese": "CNN+LSTM,投票分類器,スタッキング分類器,強化"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "diagnostic performance.",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "निदान प्रदर्शन।",
+        "Japanese": "診断性能"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Identified the Voting Classifier as the best-performing model among others,",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "मतदान वर्गीकरण को अन्य के बीच सबसे अच्छा प्रदर्शन करने वाला मॉडल के रूप में पहचाना गया,",
+        "Japanese": "投票分類者などで最も優れたモデルを特定した."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "demonstrating superior accuracy and reliability in arrhythmia diagnosis.",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "एरिथमी निदान में उत्कृष्ट सटीकता और विश्वसनीयता का प्रदर्शन करना।",
+        "Japanese": "律症診断において優れた精度と信頼性を示している."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Successfully deployed the system into a Flask framework, enabling user",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सिस्टम को फ्लैस्क फ्रेमवर्क में सफलतापूर्वक तैनात किया गया, जिससे उपयोगकर्ता",
+        "Japanese": "システムをFlaskフレームワークに成功して展開し,ユーザに"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "testing and yielding promising results in ECG signal classification,",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "ईसीजी संकेतों के वर्गीकरण में परीक्षण और आशाजनक परिणाम प्राप्त करना,",
+        "Japanese": "ECG信号の分類においてテストを行い,有望な結果をもたらした."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "benefiting healthcare practitioners and patients alike.",
+      "page": 10,
+      "level": "H1",
+      "translations": {
+        "Hindi": "स्वास्थ्य देखभाल पेशेवरों और रोगियों दोनों को समान रूप से लाभान्वित करना।",
+        "Japanese": "医療従事者にも患者にも同じ利益をもたらす."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "FUTURE SCOPE",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "भविष्य का परिधि",
+        "Japanese": "未来 の 対象"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Future works could involve:",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "भविष्य के कार्यों में शामिल हो सकते हैंः",
+        "Japanese": "将来の作業には以下が含まれます"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Improving CNN+LSTM and ensemble methods for better accuracy through",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "बेहतर सटीकता के लिए सीएनएन+एलएसटीएम और एंसेंबल विधियों में सुधार",
+        "Japanese": "より正確なためのCNN+LSTMとアンサンブル方法の改善"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "advanced feature engineering techniques.",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "उन्नत सुविधा इंजीनियरिंग तकनीकें।",
+        "Japanese": "高度な技術技術が特徴です"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Enabling continuous ECG signal monitoring for early arrhythmia detection and",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "आरतीमिया के प्रारंभिक पता लगाने के लिए ईसीजी सिग्नल की निरंतर निगरानी को सक्षम करना और",
+        "Japanese": "早期に ариトミア検出のための連続的なECG信号モニタリングを可能にすること"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "personalized healthcare.",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "व्यक्तिगत स्वास्थ्य सेवा।",
+        "Japanese": "医療費を個人化しました"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Including genetic, lifestyle, and medical data to enhance predictive capabilities",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "भविष्यवाणी क्षमताओं को बढ़ाने के लिए आनुवंशिक, जीवन शैली और चिकित्सा डेटा सहित",
+        "Japanese": "予測能力を高めるために遺伝,ライフスタイル,および医療データを含め"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "and insights into cardiovascular health.",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "और हृदय व रक्त वाहिका स्वास्थ्य के बारे में जानकारी।",
+        "Japanese": "心血管疾患の健康に関する洞察力です"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "•",
+        "Japanese": "• 医療"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Collaborating with healthcare institutions to validate effectiveness and integrate",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "स्वास्थ्य देखभाल संस्थानों के साथ प्रभावशीलता की पुष्टि और एकीकरण के लिए सहयोग करना",
+        "Japanese": "医療機関との連携で有効性を検証し,統合する"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "into real-world patient care.",
+      "page": 11,
+      "level": "H1",
+      "translations": {
+        "Hindi": "वास्तविक दुनिया के रोगी देखभाल में।",
+        "Japanese": "患者さんのケアを リアルな世界へと"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "REFERENCES",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "संदर्भ",
+        "Japanese": "参照"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  X. Yuan, J. Chen, K. Zhang, Y. Wu, and T. Yang, ‘‘A stable AI-based binary and",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• एक्स युआन, जे चेन, के. झांग, वाई वू और टी यांग, ए स्थिर एआई आधारित द्विआधारी और",
+        "Japanese": "• X. Yuan,J. Chen,K. Zhang,Y. Wu,T. Yang, A 安定したAIベースのバイナリーおよび"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "multiple class heart disease prediction model for IoMT,’’ IEEE Trans. Ind.",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "आईओएमटी, आईईईई ट्रांस. इंड.",
+        "Japanese": "IoMT, IEEE Trans. Ind."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Informat., vol. 18, no. 3, pp. 2032–2040, Mar. 2022.",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "सूचना, खंड 18, नं. 3, पृ. 20322040, मार्च 2022",
+        "Japanese": "情報の出版,第18巻,第3号,第20322040号,2022年3月."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  H. Lie et al., ‘‘Prediction of life-threatening ventricular arrhythmia in patients with",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• H. Lie et al., जीवन के लिए खतरा वाले वेंट्रिक्युलर एरिथमी की भविष्यवाणी",
+        "Japanese": " 生命を脅かす風?? 脈動症の予測"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "arrhythmogenic cardiomyopathy: A primary prevention cohort study,’’ JACC,",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "एरिथमोजेनिक कार्डियोमायोपैथी: प्राथमिक रोकथाम कोहॉर्ट अध्ययन, JACC,",
+        "Japanese": "                                                                                                  "
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Cardiovascular Imag., vol. 11, no. 10, pp. 1377–1386, 2018.",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हृदय संबंधी चित्र, खंड 11, संख्या 10, पृ. 13771386, 2018",
+        "Japanese": "血管系画像,巻11号,第10号,第13771386号, 2018年"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  S. K. Saini and R. Gupta, ‘‘Artificial intelligence methods for analysis of",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• एस.के. सैनी और आर. गुप्ता, कृत्रिम बुद्धिमत्ता के विश्लेषण के लिए तरीके",
+        "Japanese": "• S.K. SainiとR.Gupta, 分析のための人工知能方法"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "electrocardiogram signals for cardiac abnormalities: State-of-the-art and future",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "हृदय विकारों के लिए इलेक्ट्रोकार्डियोग्राम संकेतः अत्याधुनिक और भविष्य",
+        "Japanese": "心臓異常に対する電動心電図信号: 最新技術と未来"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "challenges,’’ Artif. Intell. Rev., vol. 55, no. 2, pp. 1519–1565, Feb. 2022",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "चुनौतियां, आर्टिफ. इंटेल रिव्यू, वॉल्यूम 55, नं. 2, पृ. 15191565, फरवरी 2022",
+        "Japanese": "課題, 芸術 知識 復古 第55巻,第2巻,第1519頁1565年,2022年2月"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  Y. Toulni, N. Benayad, and B. D. Taoufiq, ‘‘Electrocardiogram signals",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• य. टुल्नी, एन. बेनयाद और बी. डी. ताउफीक, इलेक्ट्रोकार्डियोग्राम संकेत",
+        "Japanese": "• Y.Toulni,N.Benayad,B.D.Taoufiq, 電動心電図の信号"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "classification using discrete wavelet transform and support vector machine",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "विवश वेवलट परिवर्तन और समर्थन वेक्टर मशीन का उपयोग करके वर्गीकरण",
+        "Japanese": "離散波紋変換とサポートベクトルマシンを用いた分類"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "classifier,’’ IAES Int. J. Artif. Intell., vol. 10, no. 4, p. 960, Dec. 2021.",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "वर्गीकरणकर्ता, IAES Int. J. Artif. Intell., vol. 10, no. 4, p. 960, Dec. 2021.",
+        "Japanese": "分類者, IAES Int. J. Artif. Intell., vol. 10, no. 4, p. 960, Dec. 2021."
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "•  G. Wang, M. Chen, Z. Ding, J. Li, H. Yang, and P. Zhang, ‘‘Inter-patient ECG",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "• जी. वांग, एम. चेन, जे. डिंग, जे. ली, एच. यांग और पी. झांग, अंतर-रोगी ईसीजी",
+        "Japanese": "• G. Wang, M. Chen, Z. Ding, J. Li, H. Yang, P. Zhang, 患者間エコー"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "arrhythmia heartbeat classification based on unsupervised domain adaptation,’’",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "अनियंत्रित डोमेन अनुकूलन के आधार पर हृदय गति एरिथमी वर्गीकरण,",
+        "Japanese": " 監督されていない領域適応に基づいて心拍数の分別"
+      }
+    },
+    {
+      "file": "sample2.pdf",
+      "text": "Neurocomputing, vol. 454, pp. 339–349, Apr. 2021.",
+      "page": 12,
+      "level": "H1",
+      "translations": {
+        "Hindi": "न्यूरोकंप्यूटिंग, खंड 454, पृ. 339349, अप्रैल 2021",
+        "Japanese": "ニューロコンピューティング,第454巻,第339349ページ, 2021年4月"
+      }
+    }
+  ]
+}
